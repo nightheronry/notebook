@@ -1,13 +1,11 @@
 {
-    "plugins": ["katex"]
-    
+    "plugins": ["katex"],
     "plugins": [ "github" ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/your/repo"
         }
-    }
-    
+    },  
     "plugins": ["expandable-chapters"],
         "pluginsConfig": {
             "expandable-chapters":{}

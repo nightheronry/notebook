@@ -8,6 +8,7 @@
     },  
     "plugins": ["expandable-chapters"],
         "pluginsConfig": {
+        
             "expandable-chapters":{}
         }
     

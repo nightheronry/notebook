@@ -1,15 +1,7 @@
 {
-    "plugins": ["katex"],
-    "plugins": [ "github" ],
     "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/your/repo"
+        "mathjax":{
+            "forceSVG": true
         }
-    },  
-    "plugins": ["expandable-chapters"],
-        "pluginsConfig": {
-        
-            "expandable-chapters":{}
-        }
-    
+    }
 }

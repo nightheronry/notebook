@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "mathjax"
+        "mathjax-full@>=0.6.2"
     ],
     "pluginsConfig": {
         "mathjax":{

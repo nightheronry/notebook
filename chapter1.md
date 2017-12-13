@@ -1,9 +1,9 @@
 # First Chapter
 
-{% math %}
-\int\_{-\infty}^\infty g\(x\) dx
-{% endmath %}
-
+$$ \int_{-\infty}^\infty g(x) dx $$
+$$
+\int_{-\infty}^\infty g(x) dx
+$$
 
 
 

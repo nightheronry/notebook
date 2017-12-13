@@ -1,10 +1,28 @@
 {
+    
     "plugins": [
-        "mathjax-full@>=0.6.2"
-    ],
-    "pluginsConfig": {
-        "mathjax":{
-            "forceSVG": true
+		"katex",
+		"github",
+		"ga",
+		"expandable-chapters-small",
+		"-sharing"
+	],
+	"pluginsConfig": {
+		"github":{
+			"url": "https://github.com/nightheronry"
+		},
+		"ga": {
+            "token": "UA-71994017-5"
+        },
+		"sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": []
         }
-    }
+	}
+	
 }
